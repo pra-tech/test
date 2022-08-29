@@ -1,0 +1,10 @@
+<nav>
+    <li>Home</li>
+    <li>About</li>
+    <li>Contact</li>
+   </nav>
+   <img src="" alt="" />
+  <div className= "container">
+    <h3> Hello Prabhat </h3>
+    <p>jbsxjaxckjb c bjjbkzcxbkj zjbkz bj</p>
+   </div>
